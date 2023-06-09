@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1 {
+            font-size: 3em;
+            border: 5px solid #fff;
+            padding: 20px;
+        }
+        .container {
+            width: 60%;
+            border: 5px solid #fff;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Chain of Thought</h1>
+        <p>Linear form of understanding blockchain.</p>
+    </div>
+</body>
+</html>
